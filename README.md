@@ -212,7 +212,7 @@ Each user story includes acceptance criteria and tasks to make sure everything i
 ## Wireframes
 
 Wireframes were created for desktop, tablet, and mobile using Balsamiq to plan how the website should look on different screens.
-[Home]()
+![Home](assets/images/Wireframes/Booking.png)
 [Catalog]()
 [Event]()
 [Booking]()
